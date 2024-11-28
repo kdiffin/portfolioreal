@@ -14,7 +14,7 @@ const presentation: Presentation = {
   socials: [
     {
       label: "Leetcode",
-      link: "https://leetcode.com/u/s4Ckf77Si2/",
+      link: "https://leetcode.com/u/kdiffin/",
       imageSrc: "/leetcode.png",
     },
     {
