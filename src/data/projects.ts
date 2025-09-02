@@ -28,9 +28,8 @@ const projects: Project[] = [
   },
   {
     title: "diffin-chat",
-    isComingSoon: true,
-    link: "#",
-    techs: ["idk"],
+    link: "https://github.com/kdiffin/diffin-chat",
+    techs: ["React Router", "Redux", "Firebase",],
     imageSrc: "/",
   },
 ];
